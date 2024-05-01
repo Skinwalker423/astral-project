@@ -18,7 +18,7 @@ export const SITE_DESCRIPTION =
  * @type {(number)}
  */
 
-export const HOMEPAGE_ARTICLE_LIMIT = 7;
+export const HOMEPAGE_ARTICLE_LIMIT = 6;
 
 /**
  * Maximun Number of articles that will be displayed per page for pagination
